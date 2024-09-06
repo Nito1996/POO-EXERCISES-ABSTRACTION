@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>POO_Exercises_Abstraction.BL</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\POO-Exercises-Abstraction.DA\POO-Exercises-Abstraction.DA.csproj" />
+  </ItemGroup>
+
+</Project>
